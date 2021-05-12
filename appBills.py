@@ -1,5 +1,6 @@
 import os
 import re
+import json
 
 def trackFiles():
     counter=0
@@ -90,10 +91,14 @@ def getData():
                 data.append(datos_archivo)                  
     return data
 
+def store(data):
+    with open("data.json","w",encoding="utf-8") as f:
+        content=json.dumps(data,indent=4)
+        f.write(content)
 
-data=getData()
 
-
+#data=getData()
+#store(data)
 
 
 
