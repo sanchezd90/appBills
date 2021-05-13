@@ -215,7 +215,7 @@ def loadExcel(data):
 
 
 writeJSON(getData())
-#loadExcel(getData())
+loadExcel(getData())
 
 
 
