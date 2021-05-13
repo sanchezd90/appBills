@@ -1,0 +1,2792 @@
+[
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000011",
+        "fecha": "15/03/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000005",
+        "fecha": "01/12/2016",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 45000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000109",
+        "fecha": "28/01/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Diciembre 2018",
+        "total": 2386.56
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000135",
+        "fecha": "30/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso online Cognici\\x97n Social Abril 2019",
+        "total": 2583.35
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000121",
+        "fecha": "02/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Febrero 2019",
+        "total": 2175.09
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000082",
+        "fecha": "18/09/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00077704 (08/2018)",
+        "total": 7980.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000096",
+        "fecha": "19/11/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00079222 (10/2018)",
+        "total": 10008.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000069",
+        "fecha": "14/07/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00076392 (06/2018)",
+        "total": 12750.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000041",
+        "fecha": "06/02/2018",
+        "cuitCliente": "33709739269",
+        "razonSocial": "NEUROCIENCIAS INECO SRL",
+        "servicio": " Honorarios por Capacitaci\\x97n",
+        "total": 10000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000055",
+        "fecha": "24/05/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Abril 2018",
+        "total": 8189.71
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000280",
+        "fecha": "11/05/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Tests de rastrillaje de d\\x8eficits cognitivos en adultos mayores Marzo 2021",
+        "total": 2377.85
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000243",
+        "fecha": "29/10/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Estimulacion Septiembre 2020",
+        "total": 23063.6
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000257",
+        "fecha": "18/01/2021",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 30000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000256",
+        "fecha": "18/01/2021",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000039585 (12/2020)",
+        "total": 21924.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000242",
+        "fecha": "22/10/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES",
+        "total": 28080.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000054",
+        "fecha": "24/05/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios evaluaciones Coca-Cola",
+        "total": 650.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000040",
+        "fecha": "02/02/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cientifico",
+        "total": 8000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000068",
+        "fecha": "11/07/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Junio 2018",
+        "total": 3334.07
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000097",
+        "fecha": "03/12/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000083",
+        "fecha": "19/09/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 450.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000120",
+        "fecha": "18/03/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n 1000004581 (03/2019)",
+        "total": 8340.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000134",
+        "fecha": "25/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotacion Martinelli Silvana",
+        "total": 145.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000108",
+        "fecha": "28/01/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " HONOR DOCENTE PSICOLOGIA 12/2018 1000001962",
+        "total": 8340.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000004",
+        "fecha": "14/11/2016",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios Screening",
+        "total": 2300.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000010",
+        "fecha": "16/02/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000006",
+        "fecha": "07/12/2016",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios Proyecto Telef\\x97nica",
+        "total": 3600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000012",
+        "fecha": "20/04/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000122",
+        "fecha": "02/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Febrero 2019",
+        "total": 2940.34
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000136",
+        "fecha": "01/05/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso on line Rastrillaje Marzo 2019",
+        "total": 2343.99
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000095",
+        "fecha": "19/11/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00079154 (10/2018)",
+        "total": 3614.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000081",
+        "fecha": "18/09/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00077648 (08/2018)",
+        "total": 2926.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000056",
+        "fecha": "24/05/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Abril 2018",
+        "total": 3836.43
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000042",
+        "fecha": "06/02/2018",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios profesionales",
+        "total": 5488.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000268",
+        "fecha": "01/04/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n neuropsicol\\x97gica en condiciones poco frecuentes Febrero 2021",
+        "total": 1440.1
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000254",
+        "fecha": "15/01/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Estimulacion Noviembre 2020",
+        "total": 12335.37
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000240",
+        "fecha": "13/10/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES",
+        "total": 21600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000241",
+        "fecha": "16/10/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000035070 (09/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000255",
+        "fecha": "15/01/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Rastrillaje Noviembre 2020",
+        "total": 6351.7
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000269",
+        "fecha": "01/04/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n y rehabilitaci\\x97n de los d\\x8eficits en cognici\\x97n social Febrero 2021",
+        "total": 1234.17
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000043",
+        "fecha": "19/02/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 2755.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000057",
+        "fecha": "28/05/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulaci\\x97n Abril 2018",
+        "total": 12999.22
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000080",
+        "fecha": "13/09/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios evaluaciones Coca-Cola",
+        "total": 1300.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000094",
+        "fecha": "15/11/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Octubre 2018",
+        "total": 5502.85
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000137",
+        "fecha": "01/05/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso on line Rastrillaje Abril 2019",
+        "total": 2556.08
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000123",
+        "fecha": "02/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso on line Rastrillaje Febrero 2019",
+        "total": 449.41
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000013",
+        "fecha": "02/05/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n de material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000007",
+        "fecha": "15/12/2016",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000003",
+        "fecha": "01/11/2016",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios screening",
+        "total": 1800.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000017",
+        "fecha": "15/06/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000127",
+        "fecha": "10/04/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS EVALUACIONES ABALMIE",
+        "total": 13600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000133",
+        "fecha": "18/04/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n 1000006482 (042019)",
+        "total": 13344.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000090",
+        "fecha": "27/10/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Octubre 2018",
+        "total": 3228.73
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000084",
+        "fecha": "01/10/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Capacitacion",
+        "total": 1600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000053",
+        "fecha": "16/05/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00075205 (04/2018)",
+        "total": 2550.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000047",
+        "fecha": "16/03/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00073912 (02/2018)",
+        "total": 2314.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000251",
+        "fecha": "16/12/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 60000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000245",
+        "fecha": "16/11/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES",
+        "total": 24840.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000279",
+        "fecha": "11/05/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Perfiles neuropsicol\\x97gicos de los trastornos neurol\\x97gicos y psiqui\\x87tricos Marzo 2021",
+        "total": 1514.89
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000278",
+        "fecha": "11/05/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Evaluaci\\x97n y rehabilitaci\\x97n de los d\\x8eficits en cognici\\x97n social Marzo 2021",
+        "total": 374.12
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000244",
+        "fecha": "10/11/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES",
+        "total": 24840.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000250",
+        "fecha": "16/12/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000038253 (11/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000046",
+        "fecha": "07/03/2018",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios profesionales",
+        "total": 2058.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000052",
+        "fecha": "09/05/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 2550.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000085",
+        "fecha": "04/10/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000091",
+        "fecha": "29/10/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Octubre 2018",
+        "total": 9011.01
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000132",
+        "fecha": "18/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios liquidaci\\x97n 1000006482 (04/2019)",
+        "total": 13344.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000126",
+        "fecha": "05/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Diferencias Rastrillaje Febrero 2019 Diferencias Estimulaci\\xef\\xbf\\xbdn Febrero 2019",
+        "total": 2064.14
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000016",
+        "fecha": "05/06/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n Cognitiva - PACO",
+        "total": 500.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000002",
+        "fecha": "31/10/2016",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " honorarios",
+        "total": 7500.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000014",
+        "fecha": "15/05/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000130",
+        "fecha": "16/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Marzo 2019",
+        "total": 4013.7
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000124",
+        "fecha": "02/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000118",
+        "fecha": "18/03/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 13060.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000087",
+        "fecha": "27/10/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00078367 (09/2018)",
+        "total": 3990.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000093",
+        "fecha": "14/11/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 15915.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000044",
+        "fecha": "05/03/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000050",
+        "fecha": "09/05/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000078",
+        "fecha": "11/09/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales (Liquidaci\\x97n Agosto)",
+        "total": 8755.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000246",
+        "fecha": "16/11/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000036616 (10/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000252",
+        "fecha": "11/01/2021",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 30000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000253",
+        "fecha": "15/01/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Cognicion social Noviembre 2020",
+        "total": 5593.72
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000247",
+        "fecha": "03/12/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n neuropsicol\\x97gica en condiciones poco frecuentes Octubre 2020",
+        "total": 3977.3
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000079",
+        "fecha": "13/09/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Agosto 2018",
+        "total": 4899.27
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000051",
+        "fecha": "09/05/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00074405 (04/2018)",
+        "total": 3060.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000045",
+        "fecha": "06/03/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaciones Proyecto Esquizofrenia",
+        "total": 900.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000092",
+        "fecha": "06/11/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000086",
+        "fecha": "16/10/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 9770.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000119",
+        "fecha": "18/03/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n 1000004573 (03/2019)",
+        "total": 1668.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000125",
+        "fecha": "04/04/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Marzo 2019",
+        "total": 5637.54
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000131",
+        "fecha": "16/04/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 6715.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000001",
+        "fecha": "20/10/2016",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " honorarios por taller de EDLP",
+        "total": 3600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000015",
+        "fecha": "01/06/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000195",
+        "fecha": "16/12/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000020642 (11/2019)",
+        "total": 13061.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000181",
+        "fecha": "01/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Septiembre 2019",
+        "total": 2096.5
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000156",
+        "fecha": "17/07/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000011882 (06/2019)",
+        "total": 13616.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000142",
+        "fecha": "20/05/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Abril 2019",
+        "total": 5884.41
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000022",
+        "fecha": "15/08/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000036",
+        "fecha": "08/01/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 3060.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000208",
+        "fecha": "12/03/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 24540.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000220",
+        "fecha": "20/05/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 30240.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000234",
+        "fecha": "18/08/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS (Prestaciones + Grupos)",
+        "total": 15120.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000235",
+        "fecha": "01/09/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Estimulaci\\x97n y entrenamiento cognitivo en adultos mayores Julio 2020",
+        "total": 13479.17
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000221",
+        "fecha": "20/05/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000027771 (04/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000209",
+        "fecha": "12/03/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Enero 2020",
+        "total": 7619.24
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000037",
+        "fecha": "08/01/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 150.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000023",
+        "fecha": "05/09/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000143",
+        "fecha": "27/05/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Abril 2019",
+        "total": 5362.62
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000157",
+        "fecha": "23/07/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotacion Laura Alvis",
+        "total": 550.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000180",
+        "fecha": "01/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Septiembre 2019",
+        "total": 5475.37
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000194",
+        "fecha": "16/12/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000020611 (11/2019)",
+        "total": 4236.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000182",
+        "fecha": "04/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Peirano Rocio",
+        "total": 555.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000196",
+        "fecha": "18/12/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Palomino Huertas Lyla",
+        "total": 260.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000169",
+        "fecha": "20/09/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 28030.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000141",
+        "fecha": "18/05/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n 1000008302 (04/2019)",
+        "total": 10286.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000155",
+        "fecha": "17/07/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000011563 (06/2019)",
+        "total": 4040.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000035",
+        "fecha": "08/01/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000021",
+        "fecha": "04/08/2017",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios Capacitaci\\x97n",
+        "total": 10000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000237",
+        "fecha": "16/09/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES (Prestaciones y Grupos)",
+        "total": 21600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000223",
+        "fecha": "22/05/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognici\\x97n Social Abril 2020",
+        "total": 3584.33
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000222",
+        "fecha": "22/05/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Poco frecuentes Abril 2020",
+        "total": 7327.34
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000236",
+        "fecha": "11/09/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES (Prestacion y Grupos)",
+        "total": 21600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000020",
+        "fecha": "01/08/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000034",
+        "fecha": "18/12/2017",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2017- 00072769",
+        "total": 925.6
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000154",
+        "fecha": "17/07/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 26050.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000140",
+        "fecha": "18/05/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n 1000008118 (05/2019)",
+        "total": 4726.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000168",
+        "fecha": "20/09/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Capacitacion evaluaci\\x97n virtual NPS",
+        "total": 6400.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000197",
+        "fecha": "13/01/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n de material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000183",
+        "fecha": "04/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Vivanco Patricia",
+        "total": 600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000187",
+        "fecha": "25/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognici\\x97n Social Octubre 2019",
+        "total": 3540.04
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000193",
+        "fecha": "13/12/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Noviembre 2019",
+        "total": 7980.7
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000144",
+        "fecha": "03/06/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion de material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000150",
+        "fecha": "30/06/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Mayo 2019",
+        "total": 7140.43
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000178",
+        "fecha": "18/10/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 27600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000030",
+        "fecha": "17/11/2017",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honoriarios liquidaci\\x97n UF2017- 00072139",
+        "total": 1619.8
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000024",
+        "fecha": "02/10/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n de material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000232",
+        "fecha": "10/08/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS (Prestaciones + Grupos)",
+        "total": 15120.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000226",
+        "fecha": "06/07/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Estimulaci\\x97n y entrenamiento cognitivo en adultos mayores Mayo 2020",
+        "total": 18199.74
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000227",
+        "fecha": "16/07/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000030617",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000233",
+        "fecha": "18/08/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000032072",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000025",
+        "fecha": "02/10/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios Protocolo Novartis",
+        "total": 5100.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000031",
+        "fecha": "05/12/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000179",
+        "fecha": "01/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Septiembre 2019",
+        "total": 4734.46
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000151",
+        "fecha": "30/06/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Estimulaci\\x97n Mayo 2019",
+        "total": 3846.57
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000145",
+        "fecha": "16/06/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios y coordinaci\\x97n",
+        "total": 3100.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000192",
+        "fecha": "13/12/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Noviembre 2019",
+        "total": 2424.3
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000186",
+        "fecha": "25/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Sciangula Martina",
+        "total": 650.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000190",
+        "fecha": "04/12/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000184",
+        "fecha": "04/11/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000153",
+        "fecha": "04/07/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion de material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000147",
+        "fecha": "16/06/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF 1000009722 (05/2019)",
+        "total": 10286.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000027",
+        "fecha": "14/10/2017",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2017- 00071196",
+        "total": 925.6
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000033",
+        "fecha": "06/12/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios coordinaci\\x97n proyecto Coca-Cola",
+        "total": 20835.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000225",
+        "fecha": "19/06/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000029019 (05/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000231",
+        "fecha": "06/08/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Condiciones poco frecuentes Junio 2020",
+        "total": 5594.06
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000219",
+        "fecha": "06/05/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Marzo 2020",
+        "total": 2824.87
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000218",
+        "fecha": "06/05/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Perfiles Marzo 2020",
+        "total": 7386.6
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000230",
+        "fecha": "03/08/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Novartis Programa Covid",
+        "total": 7000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000224",
+        "fecha": "19/06/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 30240.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000032",
+        "fecha": "06/12/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaciones Coca-Cola",
+        "total": 4225.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000026",
+        "fecha": "14/10/2017",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2017- 00071028",
+        "total": 694.2
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000146",
+        "fecha": "16/06/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 27600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000152",
+        "fecha": "30/06/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Mayo 2019",
+        "total": 666.32
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000185",
+        "fecha": "11/11/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 30600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000191",
+        "fecha": "13/12/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 31090.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000188",
+        "fecha": "26/11/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000019003 (10/2019)",
+        "total": 13061.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000177",
+        "fecha": "18/10/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000016853 (09/2019)",
+        "total": 13061.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000163",
+        "fecha": "27/08/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000013495 (08/2019)",
+        "total": 11951.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000229",
+        "fecha": "20/07/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS (Prestaciones + Grupos)",
+        "total": 15120.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000201",
+        "fecha": "18/01/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Bono mensual",
+        "total": 14000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000215",
+        "fecha": "22/04/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 28000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000214",
+        "fecha": "15/04/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognici\\x97n Social Febrero 2020",
+        "total": 3136.92
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000200",
+        "fecha": "18/01/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES DICIEMBRE",
+        "total": 30600.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000228",
+        "fecha": "16/07/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios Prestaciones y Grupos",
+        "total": 15120.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000162",
+        "fecha": "14/08/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 27610.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000176",
+        "fecha": "18/10/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000016851 (09/2019)",
+        "total": 4942.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000189",
+        "fecha": "26/11/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000018902 (10/2019)",
+        "total": 6354.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000148",
+        "fecha": "16/06/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF 1000009721 (05/2019)",
+        "total": 5004.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000160",
+        "fecha": "05/08/2019",
+        "cuitCliente": "30714147265",
+        "razonSocial": "INSTITUTO DE NEUROCIENCIAS ORO\\x84O SA IVA Responsable Inscripto Domicilio: Oro\\x96o 1508 - Rosario Sud, Santa Fe",
+        "servicio": " Capacitacion NPS",
+        "total": 6400.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000174",
+        "fecha": "03/10/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognicion Social Agosto 2019",
+        "total": 4013.77
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000028",
+        "fecha": "02/11/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000216",
+        "fecha": "22/04/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000026086 (03/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000202",
+        "fecha": "18/01/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000022250 (12/2019)",
+        "total": 13061.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000203",
+        "fecha": "27/01/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognici\\x97n Social Diciembre 2019",
+        "total": 2972.63
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000217",
+        "fecha": "06/05/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulaci\\x97n Marzo 2020",
+        "total": 13206.55
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000029",
+        "fecha": "02/11/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios proyecto Coca-Cola",
+        "total": 10000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000175",
+        "fecha": "18/10/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000016852 (09/2019)",
+        "total": 1412.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000161",
+        "fecha": "08/08/2019",
+        "cuitCliente": "30710256132",
+        "razonSocial": "CLINICA PRIVADA DE REHABILITACION JUAN XXIII SA IVA Responsable Inscripto Domicilio: 8 356 - La Plata Noroeste Calle 50, Buenos Aires",
+        "servicio": " Capacitacion NPS",
+        "total": 6400.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000149",
+        "fecha": "30/06/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognici\\x97n Social Mayo 2019",
+        "total": 1305.79
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000165",
+        "fecha": "04/09/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Macarena Jalabert",
+        "total": 1040.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000171",
+        "fecha": "20/09/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Julio 2018",
+        "total": 7415.74
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000159",
+        "fecha": "01/08/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000039",
+        "fecha": "23/01/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 780.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000213",
+        "fecha": "18/03/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Juan Carlos Rodriguez",
+        "total": 280.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000207",
+        "fecha": "04/03/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Vergara Meneses Paula",
+        "total": 560.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000206",
+        "fecha": "04/03/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000212",
+        "fecha": "17/03/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000024981 (02/2020)",
+        "total": 13061.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000038",
+        "fecha": "08/01/2018",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios profesionales",
+        "total": 3430.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000158",
+        "fecha": "30/07/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Cognici\\x97n Social Junio 2019",
+        "total": 1827.51
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000170",
+        "fecha": "20/09/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Julio 2019",
+        "total": 1567.08
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000164",
+        "fecha": "03/09/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000199",
+        "fecha": "18/01/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Pe\\x96a Cristi\\x87n",
+        "total": 810.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000172",
+        "fecha": "03/10/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion de material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000166",
+        "fecha": "17/09/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000015351 (08/2019)",
+        "total": 11951.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000210",
+        "fecha": "12/03/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Enero 2020",
+        "total": 3111.63
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000238",
+        "fecha": "16/09/2020",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000033568 (08/2020)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000239",
+        "fecha": "30/09/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Condiciones poco frecuentes Agosto 2020",
+        "total": 10903.42
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000211",
+        "fecha": "12/03/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulaci\\x97n Enero 2020",
+        "total": 7505.82
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000205",
+        "fecha": "18/02/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 28000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000167",
+        "fecha": "17/09/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF1000015074 (08/2019)",
+        "total": 5168.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000173",
+        "fecha": "03/10/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulaci\\x97n Julio 2019",
+        "total": 6751.74
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000198",
+        "fecha": "18/01/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Noviembre 2019",
+        "total": 10559.25
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000018",
+        "fecha": "02/07/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000128",
+        "fecha": "10/04/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS COORDINACION ABALMIE",
+        "total": 5100.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000114",
+        "fecha": "07/02/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulaci\\x97n Enero 2018",
+        "total": 3882.53
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000100",
+        "fecha": "02/01/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " HONOR DOCENTE PSICOLOGIA 11/2018 1000000786",
+        "total": 8340.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000048",
+        "fecha": "03/04/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion de material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000060",
+        "fecha": "01/06/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000074",
+        "fecha": "19/08/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00077065 (07/2018)",
+        "total": 7650.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000262",
+        "fecha": "23/02/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Estimulaci\\x97n y entrenamiento cognitivo en adultos mayores Enero 2021",
+        "total": 4396.79
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000276",
+        "fecha": "11/05/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Estimulaci\\x97n y entrenamiento cognitivo en adultos mayores Marzo 2021",
+        "total": 6133.15
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000277",
+        "fecha": "11/05/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line One Campus Evaluaci\\x97n neuropsicol\\x97gica en condiciones poco frecuentes Marzo 2021",
+        "total": 598.59
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000263",
+        "fecha": "23/02/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n y rehabilitaci\\x97n de los d\\x8eficits en cognici\\x97n social Enero 2021",
+        "total": 517.75
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000075",
+        "fecha": "04/09/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000061",
+        "fecha": "02/07/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000049",
+        "fecha": "04/04/2018",
+        "cuitCliente": "30714184993",
+        "razonSocial": "CLINICAL TRIAL SERVICE PERSONAL S.A.",
+        "servicio": " Honorarios profesionales",
+        "total": 4802.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000101",
+        "fecha": "02/01/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " HONOR DOCENTE PSICOLOGIA 11/2018 1000000733",
+        "total": 4448.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000115",
+        "fecha": "18/02/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 8930.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000129",
+        "fecha": "10/04/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS COORDINACION BCBA",
+        "total": 10000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000019",
+        "fecha": "15/07/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000103",
+        "fecha": "10/01/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios Bolsa de Comercio de Bs As",
+        "total": 12960.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000117",
+        "fecha": "12/03/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotaci\\x97n Melisa Yofre",
+        "total": 110.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000088",
+        "fecha": "27/10/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00078394 (09/2018)",
+        "total": 2394.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000077",
+        "fecha": "10/09/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulaci\\x97n Agosto 2018",
+        "total": 6830.35
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000063",
+        "fecha": "03/07/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00075668 (05/2018)",
+        "total": 2550.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000249",
+        "fecha": "10/12/2020",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Perfiles neuropsicol\\x97gicos de los trastornos neurol\\x97gicos y psiqui\\x87tricos Octubre 2020",
+        "total": 5017.71
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000275",
+        "fecha": "10/05/2021",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 60000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000261",
+        "fecha": "23/02/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n neuropsicol\\x97gica en condiciones poco frecuentes Enero 2021",
+        "total": 1456.92
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000260",
+        "fecha": "18/02/2021",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000040652 (01/2021)",
+        "total": 13804.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000274",
+        "fecha": "18/04/2021",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000043406 (03/2021)",
+        "total": 18681.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000248",
+        "fecha": "10/12/2020",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES",
+        "total": 24840.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000062",
+        "fecha": "03/07/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00075621 (05/2018)",
+        "total": 1020.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000076",
+        "fecha": "07/09/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Rastrillaje Agosto 2018",
+        "total": 3023.34
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000089",
+        "fecha": "27/10/2018",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " Honorarios liquidaci\\x97n UF2018- 00078423 (09/2018)",
+        "total": 7980.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000116",
+        "fecha": "02/03/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000102",
+        "fecha": "09/01/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Diciembre 2018",
+        "total": 4259.4
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000106",
+        "fecha": "13/01/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 11500.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000112",
+        "fecha": "04/02/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso on line Rastrillaje Enero 2019",
+        "total": 1119.41
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000099",
+        "fecha": "02/01/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000072",
+        "fecha": "01/08/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redacci\\x97n material cient\\x92fico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000066",
+        "fecha": "11/07/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios profesionales rotacion Mariana Montoya",
+        "total": 462.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000270",
+        "fecha": "01/04/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Estimulaci\\x97n y entrenamiento cognitivo en adultos mayores Febrero 2021",
+        "total": 5792.91
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000264",
+        "fecha": "23/02/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Perfiles neuropsicol\\x97gicos de los trastornos neurol\\x97gicos y psiqui\\x87tricos Enero 2021",
+        "total": 2557.31
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000258",
+        "fecha": "17/02/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Evaluaci\\x97n neuropsicol\\x97gica en condiciones poco frecuentes Diciembre 2020",
+        "total": 3726.43
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000259",
+        "fecha": "18/02/2021",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " HONORARIOS PROFESIONALES",
+        "total": 60000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000265",
+        "fecha": "23/02/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Tests de rastrillaje de d\\x8eficits cognitivos en adultos mayores Enero 2021",
+        "total": 1021.25
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000271",
+        "fecha": "01/04/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Tests de rastrillaje de d\\x8eficits cognitivos en adultos mayores Febrero 2021",
+        "total": 916.29
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000067",
+        "fecha": "11/07/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Junio 2018",
+        "total": 12724.68
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000073",
+        "fecha": "13/08/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 7810.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000098",
+        "fecha": "12/12/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 10985.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000113",
+        "fecha": "07/02/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Enero 2018",
+        "total": 1754.63
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000107",
+        "fecha": "28/01/2019",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO",
+        "servicio": " HONOR CURSO DE INGRESO 12/2018 1000002039",
+        "total": 1668.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000009",
+        "fecha": "03/02/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios Protocolo Novartis",
+        "total": 1500.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000111",
+        "fecha": "03/02/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000105",
+        "fecha": "10/01/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios Bolsa de Comercio de Bs As",
+        "total": 30000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000139",
+        "fecha": "18/05/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 8620.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000065",
+        "fecha": "11/07/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Estimulacion Junio 2018",
+        "total": 6266.45
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000071",
+        "fecha": "26/07/2018",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Rotacion Julieta Pissano y Matias Rodriguez",
+        "total": 200.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000059",
+        "fecha": "01/06/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios Abril",
+        "total": 1380.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000267",
+        "fecha": "16/03/2021",
+        "cuitCliente": "30680623097",
+        "razonSocial": "FUNDACION UNIVERSITARIA DR RENE G FAVALORO IVA Sujeto Exento Domicilio: Solis 453 - Capital Federal, Ciudad de Buenos Aires",
+        "servicio": " Honorarios liquidaci\\x97n UF1000041910 (02/2021)",
+        "total": 15022.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000273",
+        "fecha": "08/04/2021",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 60000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000272",
+        "fecha": "01/04/2021",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Perfiles neuropsicol\\x97gicos de los trastornos neurol\\x97gicos y psiqui\\x87tricos Febrero 2021",
+        "total": 635.4
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000266",
+        "fecha": "08/03/2021",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 60000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000058",
+        "fecha": "01/06/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 4260.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000070",
+        "fecha": "17/07/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios profesionales",
+        "total": 2030.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000064",
+        "fecha": "06/07/2018",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios Mayo",
+        "total": 5200.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000138",
+        "fecha": "01/05/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Redaccion material cientifico",
+        "total": 5000.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000104",
+        "fecha": "10/01/2019",
+        "cuitCliente": "33709340889",
+        "razonSocial": "CENTRO DE PSICOLOGIA MEDICA SAN MARTIN DE TOURS SRL",
+        "servicio": " Honorarios Bolsa de Comercio de Bs As",
+        "total": 3240.0
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "00002",
+        "numero": "00000110",
+        "fecha": "28/01/2019",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Curso On Line Perfiles Diciembre 2018",
+        "total": 5520.57
+    },
+    {
+        "cuitPrestador": "./bills/20946736741",
+        "puntoVenta": "0002",
+        "numero": "00000008",
+        "fecha": "17/01/2017",
+        "cuitCliente": "33710873459",
+        "razonSocial": "FUNDACION INECO PARA LA INVESTIGACION EN NEUROCIENCIAS COGNI",
+        "servicio": " Honorarios INE",
+        "total": 15000.0
+    }
+]

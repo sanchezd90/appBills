@@ -25,8 +25,9 @@ def trackFiles():
     
     #busco dentro de la carpeta las facturas (que son archivos de texto)
     #loops through every bill within the current directory
-    for x in os.listdir("."):
+    for x in os.listdir("bills/"):
         if x.endswith(".txt"):
+            x=os.path.join("./bills/",x)
             counter+=1
             numbers.append(int(x[-7:-4]))
             first=min(numbers)
@@ -58,8 +59,9 @@ def getData():
 
     #recorro cada documento y defino las keys del diccionario del archivo
     #loops through every file and sets the keys of the file's dictionary
-    for x in os.listdir("."):
+    for x in os.listdir("bills/"):
             if x.endswith(".txt"):
+                x=os.path.join("./bills/",x)
                 datos_iniciales=x.split("_")
                 datos_archivo={
                     "cuitPrestador":datos_iniciales[0],
@@ -213,7 +215,7 @@ def loadExcel(data):
 
 
 writeJSON(getData())
-loadExcel(getData())
+#loadExcel(getData())
 
 
 
